@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Ali Ekramian Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ekramian&hide=Jupyter%20Notebook,HTML&theme=cobalt&layout=donut-vertical)
 
 <!--
 **Ali-Ekramian/Ali-Ekramian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

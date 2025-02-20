@@ -1,6 +1,10 @@
 ### Hello There!
 I am Ali Ekramian, Physics Undergraduate Student at Sharif University of Technology.
 
+checkout my complete projects and more information on my personal webpage:
+http://physics.sharif.ir/~ali.ekramian
+
+
 <!-- ![Ali Ekramian Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ekramian&hide=Jupyter%20Notebook,HTML&theme=cobalt&layout=donut-vertical) -->
 
 <!--

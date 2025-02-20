@@ -1,7 +1,8 @@
 ### Hello There!
 I am Ali Ekramian, Physics Undergraduate Student at Sharif University of Technology.
 
-checkout my complete projects and more detailed information on my personal webpage: \\
+checkout my complete projects and more detailed information on my personal webpage:
+
 http://physics.sharif.ir/~ali.ekramian
 
 

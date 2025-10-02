@@ -5,6 +5,14 @@ checkout my complete projects and more detailed information on my personal webpa
 
 http://physics.sharif.ir/~ali.ekramian
 
+---
+
+### GitHub Stats
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ali-Ekramian&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ekramian&layout=compact&theme=tokyonight)
+
+---
+
 
 <!-- ![Ali Ekramian Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Ekramian&hide=Jupyter%20Notebook,HTML&theme=cobalt&layout=donut-vertical) -->
 

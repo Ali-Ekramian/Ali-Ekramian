@@ -3,8 +3,7 @@ I am Ali Ekramian, a physics master's student at the University of Cologne.
 
 Check out my complete projects and more detailed information on my personal webpage:
 
-http://physics.sharif.ir/~ali.ekramian
-
+https://ali-ekramian.github.io/
 <!--
 ---
 

@@ -1,7 +1,7 @@
 ### Hello There!
-I am Ali Ekramian, Physics Undergraduate Student at Sharif University of Technology.
+I am Ali Ekramian, a physics master's student at the University of Cologne.
 
-checkout my complete projects and more detailed information on my personal webpage:
+Check out my complete projects and more detailed information on my personal webpage:
 
 http://physics.sharif.ir/~ali.ekramian
 
